@@ -2,7 +2,6 @@
   "name": "ui-common",
   "version": "0.0.5",
   "description": "> TODO: description",
-  "author": "YOUDAO\\hualei <hualei@rd.netease.com>",
   "homepage": "",
   "license": "ISC",
   "main": "lib/ui-common.js",
@@ -19,5 +18,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "a8477fe2f13bfb191140e1bd5206f426c216654e"
+  "gitHead": "dec9cb7642f9b4d7d9b97630332f116ac0b28ead"
 }
