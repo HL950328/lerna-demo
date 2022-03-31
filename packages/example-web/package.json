@@ -1,6 +1,6 @@
 {
   "name": "example-web",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
@@ -9,7 +9,7 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-scripts": "5.0.0",
-    "ui-common": "^0.0.1",
+    "ui-common": "^0.0.2",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
