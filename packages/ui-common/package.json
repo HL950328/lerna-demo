@@ -1,5 +1,5 @@
 {
-  "name": "ui-common",
+  "name": "hualei-ui-common",
   "version": "0.0.7",
   "description": "> TODO: description",
   "homepage": "",
@@ -17,5 +17,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "2f3164514503e2d34968dc7a734756ba5ea24939"
+  "gitHead": "cd80a77551dc50a890c847af62632be9047fce0f"
 }
