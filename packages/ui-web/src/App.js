@@ -1,25 +1,14 @@
-import logo from './logo.svg';
 import './App.css';
-import request from "ui-common";
-
+import './processor.js'
 function App() {
-  request()
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn Rea
-        </a>
-      </header>
+      <div>
+        <video id="camera" autoPlay playsInline controls/>
+      </div>
+      <div>
+        <video id="camera-chroma" autoPlay playsInline controls/>
+      </div>
     </div>
   );
 }
